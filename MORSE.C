@@ -27,6 +27,7 @@ void main()
 	gets(string);
 	len=0;
 	strupr(string);
+	ch=string[len];
 	while(ch!='\0')
 	{
 		ch=string[len];
